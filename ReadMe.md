@@ -1,5 +1,4 @@
 
-![a](network/캡처0.PNG)
 
 ## kgsh 12기 전공 프로그래밍 network수업요약
 
@@ -210,15 +209,16 @@ a에게 직접 전송한다.
 
 ### (주관) 서브넷 마스크 계산
 >** 네트워크 프로그래밍(소켓프로그래밍)**
-![캡쳐1](C:\Users\강민수\Desktop\SihumNetImg\캡쳐1.png)
+
+![a](network/캡처1.PNG)
 ---
 
 ### IP데이터 그램에서 계산하는것(둘중하나)
-![캡쳐1](C:\Users\강민수\Desktop\SihumNetImg\캡쳐2.png)
+![a](network/캡처2.PNG)
  * **HLEN(헤더길이)**<br/>
-![캡쳐1](C:\Users\강민수\Desktop\SihumNetImg\캡쳐3.png)
+![a](network/캡처3.PNG)
  * **fragmentation offset(단편화 옵셋)**<br/>
-![캡쳐1](C:\Users\강민수\Desktop\SihumNetImg\캡쳐4.png)
+![a](network/캡처4.PNG)
 ---
 
 ### 단원 평가
